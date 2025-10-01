@@ -61,4 +61,8 @@ Apex (if required for custom logic)
 
 Data Import Wizard & Data Loader
 
-External APIs (Payment Gateway, SMS, Maps)**
+External APIs (Payment Gateway, SMS, Maps)** 
+
+
+
+Demo Vedio link:https://github.com/lakshmidivya55555/Hotel_Reservation_CRM_Project_salesforce1
